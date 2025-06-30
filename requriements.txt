@@ -1,0 +1,5 @@
+flask
+pillow
+pyheif
+python-dotenv
+gunicorn
