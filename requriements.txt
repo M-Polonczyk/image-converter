@@ -3,3 +3,4 @@ pillow
 pyheif
 python-dotenv
 gunicorn
+moviepy
